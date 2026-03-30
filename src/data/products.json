@@ -1,0 +1,94 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "image": "/src/assets/categories/vegetables.jpg",
+      "name": "vegetables",
+      "count": 20
+    },
+    {
+      "id": 2,
+      "image": "/src/assets/categories/fruits.jpg",
+      "name": "Fresh Fruits",
+      "count": 15
+    },
+    {
+      "id": 3,
+      "image": "/src/assets/categories/milk.jpg",
+      "name": "Milk & Eggs",
+      "count": 12
+    },
+    {
+      "id": 4,
+      "image": "/src/assets/categories/dryFruits.jpg",
+      "name": "Dry Fruits",
+      "count": 20
+    },
+    {
+      "id": 5,
+      "image": "/src/assets/categories/bakery.jpg",
+      "name": "Bakery",
+      "count": 15
+    },
+    {
+      "id": 6,
+      "image": "/src/assets/categories/houseHold.jpg",
+      "name": "House Hold",
+      "count": 55
+    },
+    {
+      "id": 7,
+      "image": "/src/assets/categories/beverages.jpg",
+      "name": "Beverages",
+      "count": 25
+    },
+    {
+      "id": 8,
+      "image": "/src/assets/categories/meat.jpg",
+      "name": "Meat & Poultry",
+      "count": 18
+    },
+    {
+      "id": 9,
+      "image": "/src/assets/categories/seafood.jpg",
+      "name": "Seafood",
+      "count": 10
+    },
+    {
+      "id": 10,
+      "image": "/src/assets/categories/frozenfoods.jpg",
+      "name": "Frozen Foods",
+      "count": 22
+    },
+    {
+      "id": 11,
+      "image": "/src/assets/categories/snacks.jpg",
+      "name": "Snacks",
+      "count": 30
+    },
+    {
+      "id": 12,
+      "image": "/src/assets/categories/cannedFoods.jpg",
+      "name": "Canned Foods",
+      "count": 14
+    },
+    {
+      "id": 13,
+      "image": "/src/assets/categories/spicesCondiment.jpg",
+      "name": "Spices & Condiments",
+      "count": 35
+    },
+    {
+      "id": 14,
+      "image": "/src/assets/categories/personalCare.jpg",
+      "name": "Personal Care",
+      "count": 40
+    },
+    {
+      "id": 15,
+      "image": "/src/assets/categories/cleaningSupplies.jpg",
+      "name": "Cleaning Supplies",
+      "count": 26
+    }
+  ]
+}
